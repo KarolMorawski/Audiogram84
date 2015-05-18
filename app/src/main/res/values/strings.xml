@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audiogram</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_activity_calibration">Kalibracja</string>
+    <string name="title_activity_examination">Badanie</string>
+    <string name="title_activity_char">Audiogram</string>
+    <string name="title_activity_result">Wynik</string>
+
+
+</resources>
